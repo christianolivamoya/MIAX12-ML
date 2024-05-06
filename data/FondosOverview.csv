@@ -1,0 +1,142 @@
+,Instrument,Main Index,Main Index RIC,First Trade Date,Fund Type,Geographic Focus,Currency,Total Expense Ratio,Benchmark Type,Benchmark Name,Benchmark Instrument Code,Benchmark Instrument RIC
+0,LU0094219127,,,,Money Market,EuroZone,EUR,0.1,Fund Manager,Euro Short Term Rate EUR,11063860,EUROSTR=
+1,FR0010213355,,,,Money Market,EuroZone,EUR,0.1,Fund Manager,Index is not available on Lipper Database,11000000,
+2,LU0568620131,,,,Money Market,EuroZone,EUR,0.28,Fund Manager,EURIBOR 3 Month,11000131,EURIBOR3MD=X
+3,FR0013296332,,,,Money Market,EuroZone,EUR,0.07,Fund Manager,Index is not available on Lipper Database,11000000,
+4,LU0987193264,,,,Money Market,EuroZone,EUR,0.36,Fund Manager,EURIBOR 3 Month,11000131,EURIBOR3MD=X
+5,LU0487547167,,,,Equity,Global,EUR,0.86,Fund Manager,Index is not available on Lipper Database,11000000,
+6,LU0839527339,,,,Equity,Global,EUR,0.99,Fund Manager,Index is not available on Lipper Database,11000000,
+7,LU0428380124,,,,Alternatives,Global,EUR,1.7,Fund Manager,Index is not provided by Management Company,11000006,
+8,JE00BN2CJ301,FTSE 100 Index,.FTSE,2020-12-03,,,,,,,,
+9,IE00BYQDND46,,,,Mixed Assets,Global,EUR,0.85,Fund Manager,Euro Short Term Rate EUR,11063860,EUROSTR=
+10,DE000A1C5D13,,,,Alternatives,Global,EUR,1.46,Fund Manager,Index is not available on Lipper Database,11000000,
+11,LU0607983383,,,,Alternatives,Global,EUR,1.38,Fund Manager,EURIBOR 1 Month,11000130,EURIBOR1MD=X
+12,IE00BRJT7613,,,,Alternatives,Global,EUR,1.7,Fund Manager,Index is not available on Lipper Database,11000000,
+13,LU1694789378,,,,Bond,Global,EUR,0.66,Fund Manager,Euro Short Term Rate EUR + 2%,11068858,
+14,LU0151325312,,,,Bond,Global,EUR,0.64,Fund Manager,Euro Short Term Rate EUR,11063860,EUROSTR=
+15,IE00BG1V1C27,,,,Alternatives,Global,EUR,1.38,Fund Manager,Index is not available on Lipper Database,11000000,
+16,LU1694789709,,,,Bond,Global,EUR,0.9,Fund Manager,Euro Short Term Rate EUR + 2%,11068858,
+17,LU1946739494,,,,,,,,,,,
+18,LU1648456215,,,,Bond,Global,EUR,0.43,Fund Manager,Index is not available on Lipper Database,11000000,
+19,IE00B81TMV64,,,,Bond,Global,EUR,0.58,Fund Manager,Index is not provided by Management Company,11000006,
+20,FR0010674978,,,,Bond,EuroZone,EUR,0.71,Fund Manager,Index is not available on Lipper Database,11000000,
+21,LU0539144625,,,,Bond,Europe,EUR,0.43,Fund Manager,Index is not available on Lipper Database,11000000,
+22,LU0113258742,,,,Bond,Europe,EUR,0.63,Fund Manager,ICE BofA Euro Corporate TR EUR,11025166,
+23,LU2216205182,,,,Bond,Europe,EUR,0.15,Fund Manager,Bloomberg Euro Aggregate Bond TR,11000480,
+24,IE0033758917,,,,Bond,Global,EUR,0.6,Fund Manager,Index is not provided by Management Company,11000006,
+25,LU1184248083,,,,Bond,Global,EUR,0.23,Fund Manager,Markit iBoxx Euro Overall 1-3 Year TR,11034561,.IBBEU0003
+26,LU1365052627,,,,Bond,Europe,EUR,0.33,Fund Manager,Index is not available on Lipper Database,11000000,
+27,LU1481584016,,,,Bond,Global,EUR,0.52,Fund Manager,Index is not provided by Management Company,11000006,
+28,IE00BF5B2C87,,,,Bond,Global,EUR,0.63,Fund Manager,EURIBOR 1 Month + 2%,11043456,
+29,LU0704114668,,,,Mixed Assets,Global,EUR,0.91,Fund Manager,Index is not provided by Management Company,11000006,
+30,ES0161032000,,,,Money Market,Europe,EUR,0.21,Fund Manager,EURIBOR 3 Month,11000131,EURIBOR3MD=X
+31,IE00BJCX8K53,,,,Bond,Global,EUR,0.2,Fund Manager,Index is not provided by Management Company,11000006,
+32,FR0010914572,,,,Bond,Global,EUR,0.2,Fund Manager,Index is not available on Lipper Database,11000000,
+33,IE00B80G9288,,,,Bond,Global,EUR,0.55,Fund Manager,Bloomberg U.S. Aggregate TR EUR Hedged,11032751,
+34,IE00B4Y6FV77,,,,Bond,Global,EUR,0.46,Fund Manager,Index is not provided by Management Company,11000006,
+35,LU2386637925,,,,Bond,Europe,EUR,0.15,Fund Manager,Bloomberg Euro Aggregate 1-3 Y TR,11029684,
+36,LU1915690835,,,,Bond,Europe,EUR,0.46,Fund Manager,Index is not available on Lipper Database,11000000,
+37,FR0011510056,,,,Alternatives,Global,EUR,0.3,Fund Manager,Euro Short Term Rate EUR,11063860,EUROSTR=
+38,LU1670722757,,,,Bond,Global,EUR,0.61,Fund Manager,Index is not available on Lipper Database,11000000,
+39,IE00BZ048579,FTSE 100 Index,.FTSE,2019-01-11,Bond,United States of America,USD,0.12,Fund Manager,Index is not available on Lipper Database,11000000,
+40,FI4000233242,OMX Helsinki_PI,.OMXHPI,,Bond,Europe,EUR,0.35,Fund Manager,EURIBOR 3 Month,11000131,EURIBOR3MD=X
+41,LU0853555893,,,,Bond,Global,EUR,0.64,Fund Manager,Index is not provided by Management Company,11000006,
+42,IE00BJCXFM61,,,,Bond,Global,EUR,0.3,Fund Manager,Index is not provided by Management Company,11000006,
+43,LU0329592371,,,,Bond,EuroZone,EUR,0.55,Fund Manager,Bloomberg Euro Aggr 500 Mio+ 1-3 Y TR,11026176,
+44,LU0940006884,,,,Bond,EuroZone,EUR,0.56,Fund Manager,Bloomberg Euro-Aggr: Corporates TR EUR,11021332,.BCEACOR
+45,FR0013285038,,,,Bond,Global,EUR,0.22,Fund Manager,Index is not available on Lipper Database,11000000,
+46,LU0219455952,,,,Bond,Global Emerging Markets,USD,0.75,Fund Manager,JP Morgan EMBI Global,11008472,.JPMEG
+47,IE00BDZRX185,,,,Bond,Global Emerging Markets,EUR,0.58,Fund Manager,ICE BofA US 3 M Treasury Bill TR EUR,11059166,
+48,LU0566481197,,,,Bond,Global Emerging Markets,USD,0.86,Fund Manager,JP Morgan CEMBI Broad Diversified TR USD,11071304,.JPMCEBD
+49,LU1209899100,,,,Bond,Frontier Markets,EUR,1.45,Fund Manager,Index is not provided by Management Company,11000006,
+50,LU0700927352,,,,Bond,Global Emerging Markets,EUR,0.98,Fund Manager,JP Morgan CEMBI Broad Diversified TR USD,11071304,.JPMCEBD
+51,LU0355584201,,,,Bond,EuroZone,EUR,0.36,Fund Manager,JP Morgan GBI EMU TR EUR,11042984,.JEAGAEE
+52,IE00B1FZS681,FTSE 100 Index,.FTSE,2007-01-25,Bond,EuroZone,EUR,0.15,Fund Manager,Bloomberg Euro Government 5 Y Term TR,11033873,
+53,LU0832429905,,,,Bond,EuroZone,EUR,0.47,Fund Manager,Bloomberg Euro Aggregate Treasury TR EUR,11032763,
+54,LU0336683767,,,,Bond,Global,EUR,0.4,Fund Manager,Index is not provided by Management Company,11000006,
+55,LU0231473439,,,,Bond,Europe,EUR,0.89,Fund Manager,ICE BofA Euro HY Constrain TR EUR,11025167,
+56,LU0562248236,,,,Bond,United States of America,USD,0.41,Fund Manager,Bloomberg 1-3 Y Government/Credit TR,11026081,
+57,LU0210245469,,,,Bond,EuroZone,EUR,0.39,Fund Manager,Bloomberg Euro Aggregate Treasury TR EUR,11032763,
+58,LU0290358224,Deutsche Boerse DAX Index,.GDAXI,2007-07-03,Bond,EuroZone,EUR,0.16,Fund Manager,Index is not available on Lipper Database,11000000,
+59,LU0227127726,,,,Bond,EuroZone,EUR,0.37,Fund Manager,ICE BofA 1-3 Year Euro Corp TR EUR,11037166,
+60,IE00B503VV16,,,,Equity,Global,USD,0.845352,Fund Manager,Index is not available on Lipper Database,11000000,
+61,IE00B2R34Y72,,,,Bond,Global,EUR,0.55,Fund Manager,ICE BofA BB-B Dev Mkt HY Const TR EURH,11056529,
+62,LU0320897043,,,,Equity,United States of America,EUR,0.83,Fund Manager,Russell 3000 Value TR,11019886,.RAVTRI
+63,LU0996177563,,,,Equity,United States of America,USD,0.125,Fund Manager,Index is not available on Lipper Database,11000000,
+64,IE00BFNM3G45,FTSE 100 Index,.FTSE,2018-11-08,Equity,United States of America,USD,0.07,Fund Manager,MSCI USA ESG Screened TR USD,11061486,.MIUS20000GUS
+65,IE00BZ56RD98,FTSE 100 Index,.FTSE,2017-02-21,Equity,United States of America,USD,0.33,Fund Manager,WisdomTree US Quality Dividend Growth TR USD,11066696,.WTDGITR
+66,LU1681038326,CAC 40 Index,.FCHI,2011-03-29,Equity,United States of America,USD,0.23,Fund Manager,NASDAQ 100 TR,11032760,.XNDX
+67,LU0174119775,,,,Equity,United States of America,USD,0.69,Fund Manager,Russell 1000 Growth NR,11033825,.RLGNET
+68,IE00B5BMR087,FTSE 100 Index,.FTSE,2010-09-15,Equity,United States of America,USD,0.07,Fund Manager,S&P 500 NR,11027144,.SPXNTR
+69,IE00BYVQ9F29,Deutsche Boerse DAX Index,.GDAXI,2018-09-12,Equity,United States of America,EUR,0.36,Fund Manager,NASDAQ 100 Notional NR,11043131,.XNDXNNR
+70,IE00BYX8XD24,Deutsche Boerse DAX Index,.GDAXI,2017-07-17,Equity,United States of America,EUR,0.25,Fund Manager,S&P 500 Minimum Volatility TR,11045228,.SP5MVT
+71,LU0225434405,,,,,,,,,,,
+72,LU0225434744,,,,,,,,,,,
+73,LU0594300500,,,,Equity,China,USD,1.06,Fund Manager,MSCI China NR USD,11015032,.dMICN00000NUS
+74,LU0231204701,,,,Equity,India,USD,1.0,Fund Manager,MSCI India NR USD,11015296,.dMIIN00000NUS
+75,IE00BYW5Q791,,,,Equity,Global Emerging Markets,USD,1.05,Fund Manager,MSCI EM (Emerging Markets) NR USD,11013472,.dMIEF00000NUS
+76,LU0346390866,,,,Equity,China,USD,1.06,Fund Manager,Index is not available on Lipper Database,11000000,
+77,IE00BKM4GZ66,FTSE 100 Index,.FTSE,2014-06-11,Equity,Global Emerging Markets,USD,0.18,Fund Manager,MSCI Emerging Markets IMI TR USD,11045136,.MIEF000I0GUS
+78,IE00BQT3WG13,FTSE 100 Index,.FTSE,2015-04-14,Equity,China,USD,0.4,Fund Manager,MSCI China A Inclusion TR USD,11059407,.dMICNA0I00GUS
+79,IE00BTJRMP35,Deutsche Boerse DAX Index,.GDAXI,2017-06-26,Equity,Global Emerging Markets,USD,0.18,Fund Manager,MSCI EM (Emerging Markets) NR USD,11013472,.dMIEF00000NUS
+80,IE00BZCQB185,Deutsche Boerse DAX Index,.GDAXI,2018-05-30,Equity,India,USD,0.65,Fund Manager,MSCI India NR USD,11015296,.dMIIN00000NUS
+81,LU0181496059,,,,Equity,Asia (ex-Japan),USD,1.3,Fund Manager,MSCI EM Asia NR USD,11015104,.dMIMS00000NUS
+82,IE00B5M1WJ87,Deutsche Boerse DAX Index,.GDAXI,2012-03-01,Equity,EuroZone,EUR,0.3,Fund Manager,S&P Euro High Yield Dividend Aristocrats NR EUR,11044734,.SPEUHDAN
+83,IE00BFNM3D14,FTSE 100 Index,.FTSE,2018-11-08,Equity,Europe,EUR,0.12,Fund Manager,MSCI Europe ESG Screened TR USD,11061483,.MIEU20000GUS
+84,IE00BFMNHK08,Deutsche Boerse DAX Index,.GDAXI,2018-05-11,Equity,Europe,EUR,0.2,Fund Manager,Index is not available on Lipper Database,11000000,
+85,LU2183143846,,,,Equity,EuroZone,EUR,0.98,Fund Manager,MSCI Europe Value TR EUR,11021813,.dMIEU0000VGEU
+86,DE0002635307,Deutsche Boerse DAX Index,.GDAXI,2005-04-11,Equity,Europe,EUR,0.2,Fund Manager,STOXX Europe 600 TR EUR,11041404,.SXXGR
+87,FR0007054358,CAC 40 Index,.FCHI,2001-03-21,Equity,EuroZone,EUR,0.2,Fund Manager,EURO STOXX 50 NR EUR,11000116,.STOXX50ER
+88,LU0318940003,,,,Equity,Europe,EUR,1.04,Fund Manager,MSCI Europe NR EUR,11029355,.dMIEU00000NEU
+89,LU0389811539,,,,Equity,Europe,EUR,0.147,Fund Manager,MSCI Europe TR EUR,11021657,.dMIEU00000GEU
+90,LU1482751903,,,,Equity,Global,EUR,1.04,Fund Manager,Index is not available on Lipper Database,11000000,
+91,IE00BJ5JS448,,,,Equity,Global,EUR,0.93,Fund Manager,S&P Global Infrastructure TR (USD),11032003,.SPGTINTR
+92,LU2146192377,,,,Equity,Global,EUR,0.93,Fund Manager,MSCI World NR EUR,11021679,.dMIWO00000NEU
+93,LU1985812830,,,,Equity,Global,EUR,0.75,Fund Manager,MSCI World Value NR USD,11005306,.dMIWO0000VNUS
+94,LU0463469121,,,,Alternatives,Global,EUR,1.68,Fund Manager,Index is not available on Lipper Database,11000000,
+95,IE00BFNM3J75,FTSE 100 Index,.FTSE,2018-11-05,Equity,Global,USD,0.2,Fund Manager,MSCI World ESG screened TR USD,11061480,.MIWO20000GUS
+96,LU1548499802,,,,Equity,Global,EUR,0.74,Fund Manager,Blend MSCI AC World/MSCI World IT (50:50),11067713,
+97,LU1842711688,,,,Equity,Global,USD,0.76,Fund Manager,MSCI World TR USD,11000648,.dMIWO00000GUS
+98,ES0116561038,,,,Mixed Assets,Global,EUR,1.14,Fund Manager,Index is not provided by Management Company,11000006,
+99,LU1295556887,,,,Equity,Global,EUR,0.86,Fund Manager,MSCI AC World NR USD,11012184,.dMIWD00000NUS
+100,LU0348927095,,,,Equity,Global,EUR,0.93,Fund Manager,MSCI World NR EUR,11021679,.dMIWO00000NEU
+101,LU2145462722,,,,Equity,Global,EUR,0.93,Fund Manager,MSCI World NR EUR,11021679,.dMIWO00000NEU
+102,LU0346389348,,,,Equity,Global,EUR,1.04,Fund Manager,MSCI ACWI/Information Technology NR,11012800,.dMIWD0IT00NUS
+103,IE00B1XNHC34,FTSE 100 Index,.FTSE,2007-07-09,Equity,Global,USD,0.65,Fund Manager,S&P Global Clean Energy TR,11042312,.SPGTCLTR
+104,LU0196034820,,,,Equity,EuroZone,EUR,1.0,Fund Manager,MSCI EMU NR EUR,11032130,.dMIEM00000NEU
+105,LU1923621996,,,,Equity,Global,USD,1.2,Fund Manager,MSCI World NR USD,11005313,.dMIWO00000NUS
+106,IE00BF12WY77,,,,Equity,Global,EUR,1.12,Fund Manager,Index is not available on Lipper Database,11000000,
+107,LU1079060882,,,,Bond,Global Emerging Markets,EUR,1.7,Fund Manager,Index is not provided by Management Company,11000006,
+108,LU1277647274,,,,Equity,Global,USD,0.82,Fund Manager,Index is not provided by Management Company,11000006,
+109,IE00B6YX4L58,,,,Bond,Europe,EUR,0.69,Fund Manager,Index is not available on Lipper Database,11000000,
+110,LU1665238009,,,,Equity,Global,EUR,1.07,Fund Manager,MSCI AC World NR USD,11012184,.dMIWD00000NUS
+111,LU0474968459,,,,Equity,Global,EUR,1.075,Fund Manager,Index is not available on Lipper Database,11000000,
+112,LU1819479939,,,,Equity,Global,EUR,1.08,Fund Manager,MSCI World NR EUR,11021679,.dMIWO00000NEU
+113,LU1822773807,,,,Equity,Global,EUR,1.97,Fund Manager,MSCI AC World NR USD,11012184,.dMIWD00000NUS
+114,ES0158867038,,,,Mixed Assets,Global,EUR,1.26,Fund Manager,Index is not provided by Management Company,11000006,
+115,LU1529781624,,,,Equity,Global,EUR,0.76,Fund Manager,MSCI AC World NR USD,11012184,.dMIWD00000NUS
+116,LU1700711150,,,,Equity,Global,EUR,0.93,Fund Manager,MSCI AC World NR EUR,11032851,.dMIWD00000NEU
+117,LU0366533882,,,,Equity,Global,EUR,1.09,Fund Manager,MSCI AC World TR EUR,11028791,
+118,IE00BFRSYK98,,,,Equity,Global,EUR,0.85,Fund Manager,MSCI World/Health Care TR,11005483,.dMIWO0HC00GUS
+119,LU1684370999,,,,Equity,Global,EUR,0.8,Fund Manager,MSCI AC World NR USD,11012184,.dMIWD00000NUS
+120,LU1951223004,,,,Equity,Global,EUR,1.2,Fund Manager,MSCI World NR USD,11005313,.dMIWO00000NUS
+121,LU2129420225,,,,Equity,Global,EUR,1.18,Fund Manager,MSCI AC World NR USD,11012184,.dMIWD00000NUS
+122,LU2015349330,,,,Equity,Global,EUR,1.0,Fund Manager,MSCI World NR USD,11005313,.dMIWO00000NUS
+123,DE000A2T0VU5,FTSE 100 Index,.FTSE,2020-04-27,,,,,,,,
+124,LU0654531341,,,,Equity,Global,EUR,0.8,Fund Manager,MSCI World NR EUR,11021679,.dMIWO00000NEU
+125,LU2091935150,,,,Equity,Global,EUR,0.52,Fund Manager,Index is not available on Lipper Database,11000000,
+126,LU1663901848,,,,Equity,Global,EUR,0.82,Fund Manager,Index is not provided by Management Company,11000006,
+127,IE00BDCY2C68,,,,Equity,Global,EUR,0.57,Fund Manager,Index is not available on Lipper Database,11000000,
+128,LU0415391514,,,,Equity,United States of America,EUR,1.46,Fund Manager,MSCI World/Health Care Eqpt & Services NR,11005476,.dMIWO0HS00NUS
+129,LU0302447452,,,,Equity,Global,EUR,1.04,Fund Manager,MSCI AC World NR USD,11012184,.dMIWD00000NUS
+130,IE00B6R52259,FTSE 100 Index,.FTSE,2011-11-04,Equity,Global,USD,0.2,Fund Manager,MSCI AC World NR USD,11012184,.dMIWD00000NUS
+131,LU1985812756,,,,Equity,Global,USD,0.75,Fund Manager,MSCI World Value NR USD,11005306,.dMIWO0000VNUS
+132,LU0329207053,,,,Equity,Japan,JPY,0.91,Fund Manager,Topix NR,11049316,.TOPXDVNET
+133,LU1668657197,,,,Equity,Japan,EUR,0.91,Fund Manager,Index is not available on Lipper Database,11000000,
+134,LU0828813369,,,,Equity,Global,USD,1.06,Fund Manager,Index is not available on Lipper Database,11000000,
+135,LU0280430405,,,,Equity,Global,USD,1.026,Fund Manager,MSCI AC World TR USD,11003468,.dMIWD00000GUS
+136,LU0256845834,,,,Equity,Global,USD,1.09,Fund Manager,MSCI AC World TR USD,11003468,.dMIWD00000GUS
+137,IE00BFLQFY02,,,,Equity,Japan,EUR,1.14,Fund Manager,Russell/Nomura Small Cap TR JPY,11025480,.RNSMALLJPTR
+138,IE00BJQ2XG97,,,,Alternatives,United Kingdom,EUR,1.36,Fund Manager,Index is not provided by Management Company,11000006,
+139,LU2367661365,,,,Alternatives,Global,EUR,2.31,Fund Manager,Index is not provided by Management Company,11000006,
+140,IE00BKPFD774,,,,Alternatives,Global,EUR,0.43,Fund Manager,Index is not provided by Management Company,11000006,
