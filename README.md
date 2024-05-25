@@ -45,12 +45,17 @@ Autores:
   * Notebook *6_3_PCA*. Ejemplo de PCA con Sklearn.
  
 * **Bloque 7: Clustering** [2024-05-04, 2024-05-06 y 2024-05-07]
+
+* [2024-05-04]
+  
   * Notebook *7_1_clustering_aglomerativo*. Implementación manual del clustering aglomerativo. Ejemplo de uso de Scipy.
   * Notebook *7_2_KMeans*. Implementación manual de KMeans. Ejemplo de uso de Sklearn. Interpretación de los representantes.
   * Notebook *7_3_EM*. Ejemplo de uso de Sklearn.
   * Notebook *7_4_DBSCAN*. Clustering particional vs densidad. Implementación manual de DBSCAN. Ejemplo de uso de Sklearn.
   * Notebook *7_5_comparacion_clustering*. Ejercicios de comparación de los algoritmos de clustering en diferentes problemas.
-    [2024-05-06 y 2024-05-07]
+
+* [2024-05-06 y 2024-05-07]
+    
   * Notebook *7_6_clustering_activos_momentum*. Aplicación de clustering para agrupar activos financieros.
   * Notebook *7_7_HRP*. Hierarchical Risk Parity explicado desde el punto de vista de clustering.
   * Notebook *7_8_clusterizacion_fondos*. Aplicación de clustering para agrupar fondos.
